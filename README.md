@@ -32,7 +32,7 @@ The project stores data in a MySQL database and performs database operations usi
 ## 📂 Project Structure
 
 
-Hospital-Management-System/
+```Hospital-Management-System/
 │── src/
 │   ├── Main.java
 │   ├── DBConnection.java
@@ -41,7 +41,7 @@ Hospital-Management-System/
 │   ├── Appointment.java
 │── lib/
 │   └── mysql-connector-j.jar
-│── README.md
+│── README.md```
 
 
 > Note: The class names may differ slightly depending on your project structure.
